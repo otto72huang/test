@@ -24,7 +24,7 @@ top5<-function (mtx,ncol=5){
 hidden<-function(x){
 
 }
-#' 前兩個欄位的畫圖
+#' plot by first two
 #'
 #' @param mtx
 #'

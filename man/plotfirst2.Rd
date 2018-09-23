@@ -2,7 +2,7 @@
 % Please edit documentation in R/top5.R
 \name{plotfirst2}
 \alias{plotfirst2}
-\title{<U+FFFD>å…©<U+FFFD>‹æ<U+FFFD>ä½ç<U+FFFD><U+FFFD>«å<U+FFFD>}
+\title{plot by first two}
 \usage{
 plotfirst2(mtx)
 }
@@ -10,6 +10,6 @@ plotfirst2(mtx)
 \item{mtx}{}
 }
 \description{
-<U+FFFD>å…©<U+FFFD>‹æ<U+FFFD>ä½ç<U+FFFD><U+FFFD>«å<U+FFFD>
+plot by first two
 }
 
