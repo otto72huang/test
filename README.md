@@ -14,5 +14,5 @@ edit on line
 ## test modify
 change remotely  
 change remotely 2nd  
-change locally
-in notepad edit
+in remote edit
+
