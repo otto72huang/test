@@ -15,3 +15,4 @@ edit on line
 change remotely  
 change remotely 2nd  
 change locally
+in notepad edit
