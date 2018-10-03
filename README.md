@@ -12,5 +12,6 @@ This is a basic example which shows you how to solve a common problem:
 edit on line
 
 ## test modify
-change remotely
-change remotely 2nd
+change remotely  
+change remotely 2nd  
+change locally
